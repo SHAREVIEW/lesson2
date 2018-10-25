@@ -61,4 +61,5 @@ Refs: 123, 123
 应对代码行
 
 Console.WriteLine("Values: {0}, {1}", val1, val2);
+
 Console.WriteLine("Refs: {0}, {1}", ref1.Value, ref2.Value);
